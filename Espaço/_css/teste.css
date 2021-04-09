@@ -1,0 +1,21 @@
+@charset "Utf-8";
+
+#areaTabela caption{
+font-size: 15pt;
+color: black;
+text-align: center;    
+}
+#areaTabela{
+border: 1px #68686868 solid;
+border-spacing:0px;
+margin-left: -40px;
+}
+
+#areaTabela td{
+    border: 1px #68686868 solid;  
+ }
+ .dir{
+ color: #ffffff;
+ background-color: #2422229a;    
+ }
+
